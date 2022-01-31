@@ -1,1 +1,2 @@
-
+#Audio-visual compositional environment (2nd tteration)
+Collaboration in progress. Based on custom DSP library and API (which is being developed concurrently). Allows user to control custom audio synthesis and graphics generation engines using a tracker style compositional framework. Designed for use as a musical performance environment using the terminal for control of the application (see included image  "2Voice.png" for example of 2-voice implementation of the first iteration). 
